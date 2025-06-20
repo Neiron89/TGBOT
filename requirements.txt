@@ -1,0 +1,2 @@
+amocrm-api
+python-telegram-bot
